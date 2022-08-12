@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gustavo-mota/static/css/main.717be331.css",
+    "main.js": "/gustavo-mota/static/js/main.81086ab7.js",
+    "static/media/gustavoProfile.png": "/gustavo-mota/static/media/gustavoProfile.197fd37aa627fb5875a4.png",
+    "static/media/gustavomota.pdf": "/gustavo-mota/static/media/gustavomota.ca6f0a4c5a400c213dd1.pdf",
+    "static/media/search-cep.png": "/gustavo-mota/static/media/search-cep.b6c383691b51e4562b29.png",
+    "static/media/gastos.png": "/gustavo-mota/static/media/gastos.b7d3e20ec73081666db6.png",
+    "static/media/churrasco.jpg": "/gustavo-mota/static/media/churrasco.135b2dbfed7272b0822d.jpg",
+    "static/media/todo.png": "/gustavo-mota/static/media/todo.b04a42995a5d9b42edef.png",
+    "static/media/peso-ideal.jpg": "/gustavo-mota/static/media/peso-ideal.2bee78133820a70f3b66.jpg",
+    "index.html": "/gustavo-mota/index.html",
+    "main.717be331.css.map": "/gustavo-mota/static/css/main.717be331.css.map",
+    "main.81086ab7.js.map": "/gustavo-mota/static/js/main.81086ab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717be331.css",
+    "static/js/main.81086ab7.js"
+  ]
+}
