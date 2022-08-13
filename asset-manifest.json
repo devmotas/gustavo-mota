@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gustavo-mota/static/css/main.717be331.css",
-    "main.js": "/gustavo-mota/static/js/main.81086ab7.js",
+    "main.js": "/gustavo-mota/static/js/main.6de8dc7b.js",
     "static/media/gustavoProfile.png": "/gustavo-mota/static/media/gustavoProfile.197fd37aa627fb5875a4.png",
     "static/media/gustavomota.pdf": "/gustavo-mota/static/media/gustavomota.ca6f0a4c5a400c213dd1.pdf",
     "static/media/search-cep.png": "/gustavo-mota/static/media/search-cep.b6c383691b51e4562b29.png",
@@ -11,10 +11,10 @@
     "static/media/peso-ideal.jpg": "/gustavo-mota/static/media/peso-ideal.2bee78133820a70f3b66.jpg",
     "index.html": "/gustavo-mota/index.html",
     "main.717be331.css.map": "/gustavo-mota/static/css/main.717be331.css.map",
-    "main.81086ab7.js.map": "/gustavo-mota/static/js/main.81086ab7.js.map"
+    "main.6de8dc7b.js.map": "/gustavo-mota/static/js/main.6de8dc7b.js.map"
   },
   "entrypoints": [
     "static/css/main.717be331.css",
-    "static/js/main.81086ab7.js"
+    "static/js/main.6de8dc7b.js"
   ]
 }
